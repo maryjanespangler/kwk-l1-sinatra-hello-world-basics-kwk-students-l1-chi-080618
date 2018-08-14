@@ -15,7 +15,7 @@ browser. Shotgun default is using port 9393, you should be able to visit the
 following url `http://localhost:9393`.
 
 1. Write a `get` method in the `app.rb` file to respond to the root URL '/'.
-2. The `get` route should respond with the string `"Hello, World!"`.
+2. The `get` route should respond with the string `"Hello, World!"`. 
 
 You can run `learn` to see error messages.
 
